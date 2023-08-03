@@ -7,7 +7,7 @@ languages and text editors.
 
 ## Summary
 
-The Regex I will be describing is the Matching an Email – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+The Regex I will be describing is the Matching an Email – `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Table of Contents
 
